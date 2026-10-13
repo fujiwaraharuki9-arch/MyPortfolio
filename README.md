@@ -1,4 +1,4 @@
-# CSIT340PRATICEPARBA
+# MyPortfolio
 
 React portfolio practice project for CSIT 340, built with Vite and Tailwind CSS.
 
